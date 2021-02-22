@@ -34,9 +34,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./prev1.gif'>
+<img src='./prev1.gif' width=250>
 
-[Imgur](https://i.imgur.com/G1j84Vq.gifv)
+High Quality Preview ---> [Imgur](https://i.imgur.com/G1j84Vq.gifv)
 
 
 ## Open-source libraries used
