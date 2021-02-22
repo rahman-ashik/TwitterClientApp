@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.codepath.apps.restclienttemplate"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:7:5-67
+11-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:8:5-81
+12-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:8:22-78
+13
+14    <application
+14-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:10:5-37:19
+15        android:name="com.codepath.apps.restclienttemplate.TwitterApp"
+15-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:11:9-35
+16        android:allowBackup="true"
+16-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:12:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:13:9-43
+20        android:label="TwitterApp"
+20-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:14:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:15:9-40
+23        <activity android:name="com.codepath.apps.restclienttemplate.TimelineActivity" />
+23-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:16:9-63
+23-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:16:19-51
+24        <activity
+24-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:17:9-36:20
+25            android:name="com.codepath.apps.restclienttemplate.LoginActivity"
+25-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:18:13-42
+26            android:label="TwitterApp"
+26-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:19:13-39
+27            android:theme="@style/AppTheme" >
+27-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:20:13-44
+28            <intent-filter>
+28-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:21:13-25:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:22:17-69
+29-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:22:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:24:17-77
+31-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:24:27-74
+32            </intent-filter>
+33            <intent-filter>
+33-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:26:13-35:29
+34                <action android:name="android.intent.action.VIEW" />
+34-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:27:17-69
+34-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:27:25-66
+35
+36                <category android:name="android.intent.category.DEFAULT" />
+36-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:29:17-76
+36-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:29:27-73
+37                <category android:name="android.intent.category.BROWSABLE" />
+37-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:30:17-78
+37-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:30:27-75
+38
+39                <data
+39-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:32:17-34:62
+40                    android:host="@string/intent_host"
+40-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:33:21-55
+41                    android:scheme="@string/intent_scheme" />
+41-->D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:34:21-59
+42            </intent-filter>
+43        </activity>
+44
+45        <service
+45-->[androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+46            android:name="androidx.room.MultiInstanceInvalidationService"
+46-->[androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+47            android:directBootAware="true"
+47-->[androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+48            android:exported="false" />
+48-->[androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+49    </application>
+50
+51</manifest>

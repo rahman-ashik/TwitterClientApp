@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\7cf6deae1eb805f1e7b17adf8f0b8e50\jetified-android-oauth-handler-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\19ee1caf7c48fed04f4f6143d2dee47e\jetified-asynchttpclient-0.0.9\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\44b21666f861b2b454523071d69d07d7\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\9d5d3f1415ca04128c7e27fa34e4038c\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\76a75c6502d93031e6f1d463ce4e8940\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a8cd5bb16e1985c23bcb26fcb2542d8c\jetified-stetho-okhttp3-1.5.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ae593bf96d35f69008d85600f3270619\jetified-stetho-1.5.1\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\f9976ae113f170d60bfcc789044f411d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\259d6ac788dc5ebe081349befc6dd85e\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\b147960076261e4174c567af8fb57f05\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\90ad92d9d7e544d3d7a553e07e526cde\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\2caca0665cfc150845d481add640d717\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\921fb1c1970f14455564b73ac43ed75b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\4d3225ea5d57f620bf5356e2a6f066d6\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\19ba019dbf22e650e8e95d7507462ba8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\78be485c09b159ccd6437b5ce26410a0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1c867de8727b52b88cec2ad3aed090ac\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\9d3d448a3878af78f8d5e2175d6f4332\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a5f1739a336003917307af1b7a40c6ec\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\46cb1a4d108400fae8aa890994cc503d\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\4be9d11bba6a5edbd5817409ba34d404\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\5e93b9f41c3983a761aa6e19533f24ec\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1435e0b5216c3fd72a2d6579c29d3ee1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\660b4d74cde65c33eec276f2ecc73906\core-runtime-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\082141e7a08ecc0568dc277abb6b2eb2\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a5508913c832bc0c65ebd72baf7fb6d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\384d88a73e203b8300027f46f36e4e61\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ac846bd1991b3727d0d9b0a2719ca5c8\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:10:5-37:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\9d5d3f1415ca04128c7e27fa34e4038c\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\9d5d3f1415ca04128c7e27fa34e4038c\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a8cd5bb16e1985c23bcb26fcb2542d8c\jetified-stetho-okhttp3-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a8cd5bb16e1985c23bcb26fcb2542d8c\jetified-stetho-okhttp3-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ae593bf96d35f69008d85600f3270619\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ae593bf96d35f69008d85600f3270619\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\259d6ac788dc5ebe081349befc6dd85e\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\259d6ac788dc5ebe081349befc6dd85e\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.TimelineActivity
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:16:9-63
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:16:19-51
+activity#com.codepath.apps.restclienttemplate.LoginActivity
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:17:9-36:20
+	android:label
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:19:13-39
+	android:theme
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:18:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:24:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:26:13-35:29
+action#android.intent.action.VIEW
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:30:27-75
+data
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:32:17-34:62
+	android:host
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:33:21-55
+	android:scheme
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:34:21-59
+uses-sdk
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\7cf6deae1eb805f1e7b17adf8f0b8e50\jetified-android-oauth-handler-2.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\7cf6deae1eb805f1e7b17adf8f0b8e50\jetified-android-oauth-handler-2.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\19ee1caf7c48fed04f4f6143d2dee47e\jetified-asynchttpclient-0.0.9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\19ee1caf7c48fed04f4f6143d2dee47e\jetified-asynchttpclient-0.0.9\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\44b21666f861b2b454523071d69d07d7\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\44b21666f861b2b454523071d69d07d7\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\9d5d3f1415ca04128c7e27fa34e4038c\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\9d5d3f1415ca04128c7e27fa34e4038c\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\76a75c6502d93031e6f1d463ce4e8940\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\76a75c6502d93031e6f1d463ce4e8940\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a8cd5bb16e1985c23bcb26fcb2542d8c\jetified-stetho-okhttp3-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a8cd5bb16e1985c23bcb26fcb2542d8c\jetified-stetho-okhttp3-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ae593bf96d35f69008d85600f3270619\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ae593bf96d35f69008d85600f3270619\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\f9976ae113f170d60bfcc789044f411d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\f9976ae113f170d60bfcc789044f411d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\259d6ac788dc5ebe081349befc6dd85e\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\259d6ac788dc5ebe081349befc6dd85e\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\b147960076261e4174c567af8fb57f05\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\b147960076261e4174c567af8fb57f05\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\90ad92d9d7e544d3d7a553e07e526cde\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\90ad92d9d7e544d3d7a553e07e526cde\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\2caca0665cfc150845d481add640d717\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\2caca0665cfc150845d481add640d717\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\921fb1c1970f14455564b73ac43ed75b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\921fb1c1970f14455564b73ac43ed75b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\4d3225ea5d57f620bf5356e2a6f066d6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\4d3225ea5d57f620bf5356e2a6f066d6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\19ba019dbf22e650e8e95d7507462ba8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\19ba019dbf22e650e8e95d7507462ba8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\78be485c09b159ccd6437b5ce26410a0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\78be485c09b159ccd6437b5ce26410a0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1c867de8727b52b88cec2ad3aed090ac\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1c867de8727b52b88cec2ad3aed090ac\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\9d3d448a3878af78f8d5e2175d6f4332\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\9d3d448a3878af78f8d5e2175d6f4332\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a5f1739a336003917307af1b7a40c6ec\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a5f1739a336003917307af1b7a40c6ec\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\46cb1a4d108400fae8aa890994cc503d\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\46cb1a4d108400fae8aa890994cc503d\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\4be9d11bba6a5edbd5817409ba34d404\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\4be9d11bba6a5edbd5817409ba34d404\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\5e93b9f41c3983a761aa6e19533f24ec\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\5e93b9f41c3983a761aa6e19533f24ec\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1435e0b5216c3fd72a2d6579c29d3ee1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1435e0b5216c3fd72a2d6579c29d3ee1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\660b4d74cde65c33eec276f2ecc73906\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\660b4d74cde65c33eec276f2ecc73906\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\082141e7a08ecc0568dc277abb6b2eb2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\082141e7a08ecc0568dc277abb6b2eb2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a5508913c832bc0c65ebd72baf7fb6d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a5508913c832bc0c65ebd72baf7fb6d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\384d88a73e203b8300027f46f36e4e61\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\384d88a73e203b8300027f46f36e4e61\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ac846bd1991b3727d0d9b0a2719ca5c8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ac846bd1991b3727d0d9b0a2719ca5c8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

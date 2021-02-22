@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.scribejava:scribejava-httpclient-okhttp:4.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-httpclient-okhttp/4.1.1/3735cdfb7ed61e8b0b6633d7828717be11ea04cb/scribejava-httpclient-okhttp-4.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-httpclient-okhttp/4.1.1/5ea4cac677a3d3c28be7b40a011164f3b1c64e57/scribejava-httpclient-okhttp-4.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-httpclient-okhttp/4.1.1/81ec287836925d9067d52394453d0e83ab1a432a/scribejava-httpclient-okhttp-4.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

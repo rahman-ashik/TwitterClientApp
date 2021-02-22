@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#C0C7D3">
+
+    <ImageView
+        android:id="@+id/profileImage"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="5dp"
+        android:rotationX="0"
+        android:rotationY="10"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/userName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="0dp"
+        android:layout_toEndOf="@+id/profileImage"
+        android:fontFamily="sans-serif-condensed"
+        android:shadowColor="#251F1F"
+        android:text="ashik_shovon_123"
+        android:textColor="@android:color/holo_blue_dark"
+        android:typeface="normal" />
+
+    <TextView
+        android:id="@+id/tweetBody"
+        android:layout_width="356dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/userName"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="11dp"
+        android:layout_toEndOf="@+id/profileImage"
+        android:overScrollMode="never"
+        android:text="TextView TextView TextViewTextViewTextViewTextView TextView TextViewTextViewTextViewTextViewTextView"
+        android:textAlignment="textStart"
+        android:textColor="#040303" />
+
+    <TextView
+        android:id="@+id/postedTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="6dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="5m"
+        android:textAlignment="viewEnd"
+        android:textAllCaps="false"
+        android:textSize="10sp"
+        android:textStyle="italic" />
+</RelativeLayout>
