@@ -36,6 +36,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='./prev1.gif'>
 
+[Imgur](https://i.imgur.com/G1j84Vq.gifv)
+
 
 ## Open-source libraries used
 
