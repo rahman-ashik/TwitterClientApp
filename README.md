@@ -5,6 +5,9 @@ TwitterApp is an android app that allows a user to view his Twitter timeline. Th
 
 Time spent: 8 hours spent in total
 
+
+>>> Part 2 requirements <<<
+
 ## User Stories
 
 
@@ -29,6 +32,9 @@ The following **optional** features are implemented:
 - [ ] When a user leaves the compose view without publishing and there is existing text, prompt to save or delete the draft. If saved, the draft should then be **persisted to disk** and can later be resumed from the compose view.
 - [ ] Enable your app to receive implicit intents from other apps. When a link is shared from a web browser, it should pre-fill the text and title of the web page when composing a tweet. 
 
+
+
+>>> Part 1 requirements <<<
 
 The following **required** functionality is completed:
 
