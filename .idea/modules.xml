@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleTweet.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleTweet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleTweet.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleTweet.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TwitterClientApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TwitterClientApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwitterClientApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwitterClientApp.app.iml" />
     </modules>
   </component>
 </project>

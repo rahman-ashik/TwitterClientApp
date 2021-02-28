@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+            "outputFile": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\TwitterClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ashik\\.gradle\\caches\\transforms-2\\files-2.1\\8dbd859d1cd89239b42e7382b4fc40d7\\core-1.3.1\\res\\values-es\\values-es.xml",

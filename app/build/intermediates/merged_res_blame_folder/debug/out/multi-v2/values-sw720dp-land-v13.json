@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "outputFile": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\TwitterClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
             "map": [
                 {
-                    "source": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "source": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\TwitterClientApp\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",

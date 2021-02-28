@@ -20,6 +20,7 @@
         android:label="TwitterApp"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.codepath.apps.restclienttemplate.ComposeActivity" />
         <activity android:name="com.codepath.apps.restclienttemplate.TimelineActivity" />
         <activity
             android:name="com.codepath.apps.restclienttemplate.LoginActivity"

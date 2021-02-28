@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\TwitterClientApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ashik\\.gradle\\caches\\transforms-2\\files-2.1\\73327337a728e12c5c3cdecdb4b7e327\\constraintlayout-2.0.4\\res\\values\\values.xml",
@@ -23,25 +23,6 @@
                     }
                 },
                 {
-                    "source": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2,11",
-                        "startColumns": "4,4",
-                        "startOffsets": "17,357",
-                        "endLines": "8,13",
-                        "endColumns": "12,12",
-                        "endOffsets": "319,512"
-                    },
-                    "to": {
-                        "startLines": "586,593",
-                        "startColumns": "4,4",
-                        "startOffsets": "32142,32449",
-                        "endLines": "592,595",
-                        "endColumns": "12,12",
-                        "endOffsets": "32444,32604"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Ashik\\.gradle\\caches\\transforms-2\\files-2.1\\76a75c6502d93031e6f1d463ce4e8940\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -58,6 +39,23 @@
                         "endLines": "248,446,447,448,456,457,458,523,3307",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "11028,23434,23482,23538,24224,24300,24372,28289,220334"
+                    }
+                },
+                {
+                    "source": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\TwitterClientApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,6,5,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "56,212,164,117",
+                        "endColumns": "60,46,47,46",
+                        "endOffsets": "112,254,207,159"
+                    },
+                    "to": {
+                        "startLines": "547,576,577,578",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "29452,31434,31481,31529",
+                        "endColumns": "60,46,47,46",
+                        "endOffsets": "29508,31476,31524,31571"
                     }
                 },
                 {
@@ -152,24 +150,26 @@
                     }
                 },
                 {
-                    "source": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\TwitterClientApp\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "3,6,5,4",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "56,212,164,117",
-                        "endColumns": "60,46,47,46",
-                        "endOffsets": "112,254,207,159"
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,357",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "319,512"
                     },
                     "to": {
-                        "startLines": "547,576,577,578",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "29452,31434,31481,31529",
-                        "endColumns": "60,46,47,46",
-                        "endOffsets": "29508,31476,31524,31571"
+                        "startLines": "586,593",
+                        "startColumns": "4,4",
+                        "startOffsets": "32142,32449",
+                        "endLines": "592,595",
+                        "endColumns": "12,12",
+                        "endOffsets": "32444,32604"
                     }
                 },
                 {
-                    "source": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "D:\\codepath\\android-rest-client-template-master\\SimpleTweet\\TwitterClientApp\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",

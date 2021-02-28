@@ -4,16 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="#C0C7D3">
+    android:background="@drawable/layout_bg">
 
     <ImageView
         android:id="@+id/profileImage"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
+        android:layout_width="78dp"
+        android:layout_height="73dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="23dp"
         android:rotationX="0"
         android:rotationY="10"
         tools:srcCompat="@tools:sample/avatars" />
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginStart="7dp"
-        android:layout_marginTop="0dp"
+        android:layout_marginTop="8dp"
         android:layout_toEndOf="@+id/profileImage"
         android:fontFamily="sans-serif-condensed"
         android:shadowColor="#251F1F"
@@ -34,17 +34,19 @@
 
     <TextView
         android:id="@+id/tweetBody"
-        android:layout_width="356dp"
-        android:layout_height="wrap_content"
+        android:layout_width="299dp"
+        android:layout_height="86dp"
         android:layout_below="@+id/userName"
         android:layout_alignParentEnd="true"
         android:layout_centerVertical="true"
-        android:layout_marginStart="18dp"
-        android:layout_marginTop="5dp"
-        android:layout_marginEnd="11dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="9dp"
         android:layout_toEndOf="@+id/profileImage"
+        android:autoLink="all"
+        android:linksClickable="true"
         android:overScrollMode="never"
-        android:text="TextView TextView TextViewTextViewTextViewTextView TextView TextViewTextViewTextViewTextViewTextView"
+        android:text="TextView TextView TextViewTextViewTextViewTextView TextView TextViewTextViewTextViewTextViewTextViewTextView TextView TextViewTextViewTextViewTextView TextView TextViewTextViewTextViewTextViewTextView"
         android:textAlignment="textStart"
         android:textColor="#040303" />
 
@@ -54,8 +56,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="0dp"
-        android:layout_marginEnd="6dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="32dp"
         android:fontFamily="sans-serif-condensed-light"
         android:text="5m"
         android:textAlignment="viewEnd"

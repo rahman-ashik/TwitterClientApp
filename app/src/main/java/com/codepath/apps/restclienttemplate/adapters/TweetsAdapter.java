@@ -13,6 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.codepath.apps.restclienttemplate.R;
 import com.codepath.apps.restclienttemplate.TimeFormatter;
+import com.codepath.apps.restclienttemplate.models.LinkifiedTextView;
 import com.codepath.apps.restclienttemplate.models.Tweet;
 
 import java.util.List;

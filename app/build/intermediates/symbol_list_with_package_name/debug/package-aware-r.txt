@@ -809,6 +809,7 @@ drawable btn_radio_on_to_off_mtrl_animation
 drawable ic_launcher
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable layout_bg
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -915,6 +916,7 @@ id checkbox
 id checked
 id chronometer
 id collapseActionView
+id compose
 id content
 id contentPanel
 id cos
@@ -941,6 +943,7 @@ id dragUp
 id easeIn
 id easeInOut
 id easeOut
+id editTextTextMultiLine
 id edit_query
 id end
 id expand_activities_button
@@ -998,6 +1001,7 @@ id path
 id pathRelative
 id percent
 id position
+id postButton
 id postLayout
 id postedTime
 id profileImage
@@ -1064,6 +1068,7 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textcounter
 id time
 id title
 id titleDividerNoCustom
@@ -1124,6 +1129,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_compose
 layout activity_login
 layout activity_timeline
 layout custom_dialog
@@ -1139,6 +1145,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu login
+menu menu_main
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round

@@ -1,7 +1,7 @@
-#Sun Feb 21 20:59:57 EST 2021
-base.0=D\:\\codepath\\android-rest-client-template-master\\SimpleTweet\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Sun Feb 28 15:12:22 EST 2021
+base.0=D\:\\codepath\\android-rest-client-template-master\\SimpleTweet\\TwitterClientApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\codepath\\android-rest-client-template-master\\SimpleTweet\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.1=D\:\\codepath\\android-rest-client-template-master\\SimpleTweet\\TwitterClientApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

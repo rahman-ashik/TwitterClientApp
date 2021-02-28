@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:2:1-40:12
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\7cf6deae1eb805f1e7b17adf8f0b8e50\jetified-android-oauth-handler-2.2.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\19ee1caf7c48fed04f4f6143d2dee47e\jetified-asynchttpclient-0.0.9\AndroidManifest.xml:2:1-11:12
@@ -37,33 +37,33 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\As
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\a5508913c832bc0c65ebd72baf7fb6d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\384d88a73e203b8300027f46f36e4e61\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ac846bd1991b3727d0d9b0a2719ca5c8\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:3:5-51
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:7:5-67
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:8:5-81
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:8:22-78
 application
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:10:5-37:19
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:10:5-38:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\9d5d3f1415ca04128c7e27fa34e4038c\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
@@ -83,61 +83,65 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\As
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.ComposeActivity
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:16:9-62
+	android:name
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:16:19-50
 activity#com.codepath.apps.restclienttemplate.TimelineActivity
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:16:9-63
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:17:9-54
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:16:19-51
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:17:19-51
 activity#com.codepath.apps.restclienttemplate.LoginActivity
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:17:9-36:20
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:18:9-37:20
 	android:label
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:19:13-39
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:20:13-39
 	android:theme
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:20:13-44
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:21:13-44
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:18:13-42
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:19:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:25:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:26:13-35:29
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:27:13-36:29
 action#android.intent.action.VIEW
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.DEFAULT
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:29:17-76
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:29:27-73
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:30:27-73
 category#android.intent.category.BROWSABLE
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:30:17-78
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:31:17-78
 	android:name
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:30:27-75
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:31:27-75
 data
-ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:32:17-34:62
+ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:33:17-35:62
 	android:host
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:33:21-55
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:34:21-55
 	android:scheme
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml:34:21-59
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml:35:21-59
 uses-sdk
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\7cf6deae1eb805f1e7b17adf8f0b8e50\jetified-android-oauth-handler-2.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\7cf6deae1eb805f1e7b17adf8f0b8e50\jetified-android-oauth-handler-2.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
@@ -204,16 +208,16 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ashik\.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\384d88a73e203b8300027f46f36e4e61\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ac846bd1991b3727d0d9b0a2719ca5c8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\ac846bd1991b3727d0d9b0a2719ca5c8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
-INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
-		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
-		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\codepath\android-rest-client-template-master\SimpleTweet\TwitterClientApp\app\src\main\AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Ashik\.gradle\caches\transforms-2\files-2.1\95f0ce6fe72fcb68ec6fceedc8417c44\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
 	android:exported
